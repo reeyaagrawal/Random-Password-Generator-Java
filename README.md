@@ -17,6 +17,6 @@ This is a Java program that generates strong random passwords.
 - Shuffles characters to avoid predictable patterns
 
 ## Sample Output
-A9kLp2
-xT3mQa
-7ZbR1p
+- A9kLp2
+- xT3mQa
+- 7ZbR1p
